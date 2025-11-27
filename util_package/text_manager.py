@@ -1,6 +1,5 @@
 import string
 # Do not change the following lines
-
 TEXT = '''Are the following lines palindromes?
 A man, a plan, a canal, Panama.
 This line is not a palindrome
